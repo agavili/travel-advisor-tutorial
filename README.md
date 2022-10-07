@@ -7,6 +7,6 @@ Built using React, utilizes Rapid API along with: Travel Advisor API, Google Map
  Go to: https://travel-advisor-tu-ag.netlify.app/
  
  # Tutorial Followed 
- https://youtu.be/GDa8kZLNhJ4
+https://youtu.be/GDa8kZLNhJ4
  
  
